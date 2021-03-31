@@ -15,14 +15,15 @@ Actiuni posibile:
     12.Afisare cititor
 
 Clase:
-  Biblioteca
-  Persoana
+      
+	  Biblioteca
+      Persoana
           Cititor
           Angajat
           Autor
-  Carte
-  Sectiune
-  ImprumutCarte
+      Carte
+      Sectiune
+      ImprumutCarte
           
     
 
