@@ -24,6 +24,8 @@ Clase:
       Carte
       Sectiune
       ImprumutCarte
+      Services
+      Main
           
     
 
