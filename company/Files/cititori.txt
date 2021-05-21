@@ -1,0 +1,5 @@
+Oprescu, Florin, 1, 5, 35
+Enache, Mihai, 2, 3, 22
+Stancu, George, 3, 5, 26
+Pompiliu, Florian, 4, 10, 40
+Petrscu, Ion, 4, 11, 50
