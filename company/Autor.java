@@ -25,3 +25,4 @@ public class Autor extends Persoana {
         return nume + " " + prenume + " " + nationalitate;
     }
 }
+
