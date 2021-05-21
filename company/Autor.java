@@ -2,7 +2,7 @@ package com.company;
 
 public class Autor extends Persoana {
     private String categorie;
-    private final String nationalitate;
+    private String nationalitate;
 
     Autor(){
         this.categorie = "";
