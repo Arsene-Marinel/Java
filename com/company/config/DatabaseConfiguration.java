@@ -8,7 +8,7 @@ public class DatabaseConfiguration {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/biblioteca";
     private static final String USER = "root";
-    private static final String PASSWORD = "Campionul30!";
+    private static final String PASSWORD = "MyPassword";
 
     private static Connection databaseConnection;
 
