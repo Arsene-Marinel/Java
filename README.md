@@ -1,4 +1,6 @@
 # Java
+
+# Etapa I:
 Actiuni posibile:
 
     1.Adaugare carti
@@ -30,12 +32,25 @@ Clase:
    
    
 # Etapa II:
-	Pentru ca programul sa porneasca trebuiesc eliminate de fiecare data spatiile dintre componentele ce formeaza fisierele: angajati.txt, autori.txt, carti.txt, cititori.txt
+Scrierea si citirea din fisier. Am inclus:
+
+	Exceptions
+	FileService
+	Files
+	AngajatService
+	AutorCarteService
+	CititorService
+	
+Programul foloseste acelasi fisier si pentru scriere si pentru citire.
+De aceea pentru ca programul sa porneasca trebuiesc eliminate de fiecare data spatiile dintre componentele ce formeaza fisierele: angajati.txt, autori.txt, carti.txt, cititori.txt
 	
 	
 	
 # Etapa III: JDBC
+Am inclus:
 	
+	config
+	repository
           
     
 
