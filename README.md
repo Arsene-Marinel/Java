@@ -42,7 +42,7 @@ Scrierea si citirea din fisier. Am inclus:
 	CititorService
 	
 Programul foloseste acelasi fisier si pentru scriere si pentru citire.
-De aceea pentru ca programul sa porneasca trebuiesc eliminate de fiecare data spatiile dintre componentele ce formeaza fisierele: angajati.txt, autori.txt, carti.txt, cititori.txt
+De aceea pentru a-l porni trebuiesc eliminate de fiecare data spatiile dintre componentele ce formeaza fisierele: angajati.txt, autori.txt, carti.txt, cititori.txt
 	
 	
 	
