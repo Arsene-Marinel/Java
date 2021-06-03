@@ -32,7 +32,7 @@ Clase:
    
    
 # Etapa II:
-Scrierea si citirea din fisier. Am inclus:
+Scrierea si citirea din fisier + servicu de audit. Am inclus:
 
 	Exceptions
 	FileService
